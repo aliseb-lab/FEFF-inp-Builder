@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# feff.inp files written while trying the examples
+examples/*_feff.inp
+
+# FEFF / Artemis run output, if FEFF is run inside this folder
+*.dat
+*.bin
+feff.run
+*.log
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
