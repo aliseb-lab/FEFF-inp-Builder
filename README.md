@@ -157,7 +157,6 @@ Open an issue with the structure file (if you can share it), the settings you us
 
 ## Acknowledgements
 
-- Sadeq Shryim, for providing access to Claude AI.
 - Claude AI (Anthropic), for helping build this program, including the code, testing and documentation.
 
 ## License
